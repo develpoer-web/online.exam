@@ -1,1 +1,1 @@
-# online.exam
+This is a Bengali-first online exam platform designed with a robotic, neon-glitch interface and fully optimized for Galaxy A15 devices. Students begin on a responsive home page showing the exam title, time, and total marks. A glowing “Start Exam” button launches the test, presenting one question at a time with four circular options (A/B/C/D). Each option is selectable only once, and the next question auto-loads. The layout is touch-friendly and prevents overflow on small screens.
